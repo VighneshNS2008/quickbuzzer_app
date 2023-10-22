@@ -12,9 +12,6 @@
 ### Download from here :::
 [**Link to download**](https://github.com/VighneshNS2008/quickbuzzer_app/raw/main/quickbuzzer.apk)
 
-### Demonstration :::
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=APW62Xv52xU" target="_blank">
- <img src="http://img.youtube.com/vi/APW62Xv52xU/mqdefault.jpg" alt="demonstrationvideoos" width="240" height="180" border="10" />
-</a>
+### Demonstration :::(http://www.youtube.com/watch?v=APW62Xv52xU)
 
 ### ::::: Thank you :::::
