@@ -7,7 +7,7 @@
 2. - Quickest quizzer announcement including time is shown
 3. - Cheating detection
 4. - Timelimit per question setting option
-5. - Quick report without any delay
+5. - Quick report without any delay along with projector page on local ip port 8080
 
 ### Download from here :::
 [**Link to download**](https://github.com/VighneshNS2008/quickbuzzer_app/raw/main/quickbuzzer.apk)
